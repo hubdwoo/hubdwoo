@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on things that I have no knowledge about
 - ❤️ Favorite languages: [C++, Python, C] in order :D
+- 📲 You can contact me via creating Issues
 
 <!---
 hubdwoo/hubdwoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
