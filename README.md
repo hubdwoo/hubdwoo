@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hubdwoo
-- 👀 I’m interested in topics relating to algorithms, data structures, programming languages especially C+ and topics relating to Finance
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on things that I have no knowledge about
+- 👀 I’m interested in topics relating to algorithms & data structures, statistical & ML models, programming languages especially C++ and topics relating to Finance
+- 🌱 I’m currently studying Computer Science & Data Science
 - ❤️ Favorite languages: [C++, Python, C] in order :D
 - 📲 You can contact me via creating Issues
 
